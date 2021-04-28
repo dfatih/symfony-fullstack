@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext"
+        original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="LNAVleg" resname="Give your feedback!">
+        <source>Give your feedback!</source>
+        <target>Give your feedback!</target>
+      </trans-unit>
+      <trans-unit id="3Mg5pAF" resname="View">
+        <source>View</source>
+        <target>View</target>
+      </trans-unit>
+      <trans-unit id="eOy4.6V" resname="Conference Guestbook">
+        <source>Conference Guestbook</source>
+        <target>Conference Guestbook</target>
+      </trans-unit>
+      <trans-unit id="maMQz7W" resname="nb_of_comments">
+        <source>nb_of_comments</source>
+        <target>{count, plural, =0 {There are no comments.} one {There is one
+          comment.} other {There are # comments.}}</target>
+      </trans-unit>
+      <trans-unit id="eOy4.7V" resname="Conference Guestbook">
+        <source>Your name</source>
+        <target>Your name</target>
+      </trans-unit>
+      <trans-unit id="eOy4.8V" resname="Conference Guestbook">
+        <source>Text</source>
+        <target>Text</target>
+      </trans-unit>
+      <trans-unit id="eOy4.9V" resname="Conference Guestbook">
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="eOy4.10V" resname="Conference Guestbook">
+        <source>Photo</source>
+        <target>Photo</target>
+      </trans-unit>
+      <trans-unit id="eOy4.11V" resname="Conference Guestbook">
+        <source>Submit</source>
+        <target>Submit</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
