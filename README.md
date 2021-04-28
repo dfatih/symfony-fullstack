@@ -21,7 +21,7 @@
 
 ![Alt text](readMe/assets/image(5).png?raw=true "Title")
 
-### Redirecting Form
+### Redirecting Form & Routing(Using Slug)
 
 
 ![Alt text](readMe/assets/image(3).png?raw=true "Title")
