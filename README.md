@@ -11,29 +11,29 @@
 - MariaDB Database
 - Twig Framework
 
-### Translation between English and France
+## Translation between English and France
 
 ![Alt text](readMe/assets/image(1).png?raw=true "Title")
 ![Alt text](readMe/assets/image.png?raw=true "Title")
 
-### Reverse Proxy for Caching with ESI Strategy
+## Reverse Proxy for Caching with ESI Strategy
 
 
 ![Alt text](readMe/assets/image(5).png?raw=true "Title")
 
-### Redirecting Form & Routing(Using Slug)
+## Redirecting Form & Routing(Using Slug)
 
 
 ![Alt text](readMe/assets/image(3).png?raw=true "Title")
 ![Alt text](readMe/assets/image(4).png?raw=true "Title")
 
-### Admin Panel
+## Admin Panel
 
 
 ![Alt text](readMe/assets/image(6).png?raw=true "Title")
 
 
-### Form Feedback
+## Form Feedback
 
 
 ![Alt text](readMe/assets/image(7).png?raw=true "Title")
